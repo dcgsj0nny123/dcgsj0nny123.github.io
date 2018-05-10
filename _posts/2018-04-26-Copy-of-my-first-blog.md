@@ -1,5 +1,5 @@
 ---
-title: Copy of my first blog
+title:  blog numero dos
 layout: post
 author: jonathan.o'sullivan
 permalink: /copy-of-my-first-blog/
@@ -43,7 +43,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Some strategies I used that were effective during the lesson on the 26th of April 2018 was to try and do it quickly although if I was struggling I would ask for the solution which was very good.q</td>
+    <td>Some strategies I used that were effective during the lesson on the 26th of April 2018 was to try and do it quickly although if I was struggling I would ask for the solution which was very good.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
