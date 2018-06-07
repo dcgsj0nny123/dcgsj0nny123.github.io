@@ -3,6 +3,8 @@ title: Copy of Blog 3
 layout: post
 author: jonathan.o'sullivan
 permalink: /copy-of-blog-3/
+tags:
+- posts
 source-id: 1rdTG5-raueqo5n_vwLhWkF8h-0VxC6i5NMoFtjFF4Qg
 published: true
 ---
