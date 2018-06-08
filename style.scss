@@ -20,7 +20,7 @@ html {
 body {
 	 background-image: url("https://www.google.co.uk/search?safe=active&sa=G&hl=en-GB&q=africa+savanna+sunset+wild+animals+zebras+32x24+wall+print+poster&tbm=isch&tbs=simg:CAQSmQEJZdKKn_1PO0MsajQELEKjU2AQaBggVCAUICwwLELCMpwgaYgpgCAMSKIcLiAuWCaALhguFC5AJ3xbgFrAO5SG6N7w3tCrjIo8quTi7N40qwiIaMDCSK3TpN40_1VM-HQC6SF1Oqx1qOxBH34YB5KzuPR-M7c241ljvNkdnaOpqr1rmSaCAEDAsQjq7-CBoKCggIARIEdjZR7gw&ved=2ahUKEwjugYuf5YzbAhVFDuwKHdigDZgQwg4oAHoECAEQJQ&biw=1920&bih=966#imgrc=XM0WDufoTJDguM:");
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $blue;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $blue;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $blue;
 }
 
 p {
@@ -117,16 +117,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $blue;
 }
 
 
 ::-moz-selection {
-  color: $black;
+  color: $blue;
   background: $blue;
 }
 ::selection {
-  color: $black;
+  color: $blue;
   background: $blue;
 }
 
