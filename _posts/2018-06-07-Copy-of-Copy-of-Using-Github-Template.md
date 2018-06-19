@@ -1,5 +1,5 @@
 ---
-title: Copy of Copy of Using Github Template
+title: Blog 1
 layout: post
 author: jonathan.o'sullivan
 permalink: /copy-of-copy-of-using-github-template/
