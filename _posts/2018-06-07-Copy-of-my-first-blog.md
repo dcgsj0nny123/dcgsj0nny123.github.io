@@ -1,5 +1,5 @@
 ---
-title: Copy of my first blog
+title: Blog 4
 layout: post
 author: jonathan.o'sullivan
 permalink: /copy-of-my-first-blog/
