@@ -1,5 +1,5 @@
 ---
-title:  blog numero dos
+title:  Blog 7
 layout: post
 author: jonathan.o'sullivan
 permalink: /copy-of-my-first-blog/
