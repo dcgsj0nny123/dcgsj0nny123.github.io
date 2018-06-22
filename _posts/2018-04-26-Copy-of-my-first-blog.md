@@ -1,5 +1,5 @@
 ---
-title:  Blog 7
+title:  blog numero dos
 layout: post
 author: jonathan.o'sullivan
 permalink: /copy-of-my-first-blog/
@@ -11,9 +11,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blog 7</td>
+    <td>Blog 3</td>
     <td>Date</td>
-    <td>15/6/18</td>
+    <td>10/418</td>
   </tr>
 </table>
 
@@ -43,7 +43,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Some strategies I used that were effective during the lesson on the 15th of June 2018 was to try and do it quickly. I did this by asking my partner for help if I felt I could do what was asked of me.</td>
+    <td>Some strategies I used that were effective during the lesson on the 10th of May2018 was to try and get a lot done in a short space of time which is shown by my badges</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
